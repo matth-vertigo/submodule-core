@@ -1,0 +1,3 @@
+[submodule "submodule-extension-1"]
+	path = submodule-extension-1
+	url = git@github.com:matth-vertigo/submodule-extension-1.git
